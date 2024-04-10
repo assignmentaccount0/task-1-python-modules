@@ -79,4 +79,4 @@ Write a Python program to get days between two dates.
 Write a Python program to calculate an age in a year.
 
 
-**Powered by [TechAcademy](https://www.tech.edu.az/)**
+
